@@ -10,6 +10,29 @@
 
 建议先观看视频导读：[https://www.bilibili.com/video/BV1nh411e7oG/](https://www.bilibili.com/video/BV1nh411e7oG/)
 
+<button class="fancy-button">点击我</button>
+<style>
+.fancy-button {
+  background-color: #4CAF50; /* 绿色 */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.fancy-button:hover {
+  background-color: #45a049; /* 深绿色 */
+}
+</style>
+<span v-for="i in 3">{{ i }} </span>
+
 ## 路线特点
 
 1. 一份全面的前端知识点大梳理和汇总

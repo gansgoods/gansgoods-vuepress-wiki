@@ -6,9 +6,12 @@ permalink: /
 
 > 贴心的编程学习路线，全面的编程知识百科
 >
-> 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 作者：[程序员鱼皮123](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
+
+<ArticleTopAd></ArticleTopAd>
+
 
 ## 本站内容
 

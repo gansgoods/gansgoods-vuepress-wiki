@@ -23,6 +23,6 @@
     "vuepress-plugin-img-lazy": "^1.0.4"
   },
   "engines": {
-    "node": "18.19.1"
+    "node": "16.20.2"
   }
 }

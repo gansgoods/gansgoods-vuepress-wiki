@@ -1,5 +1,5 @@
 {
-  "name": "codefather",
+  "name": "Gansgoods",
   "version": "1.0.0",
   "scripts": {
     "docs:dev": "vuepress dev .",
@@ -23,6 +23,8 @@
     "vuepress-plugin-img-lazy": "^1.0.4"
   },
   "engines": {
-    "node": "16.20.2"
+    "node": "16.20.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.0.0"
   }
 }
